@@ -1,4 +1,4 @@
-BmobSocialShare
+Bmob社交分享组件
 ===============
 
 Bmob提供的多平台社会化分享功能
